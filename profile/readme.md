@@ -69,6 +69,9 @@
  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-badge&logo=postman&logoColor=white">
  
  </div>
+ <div align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-badge&logo=postman&logoColor=white">
+ </div>
  
 <br>
 
