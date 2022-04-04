@@ -46,13 +46,6 @@
 
 <br>
 
-## 🔨 Architecture
- <div align="center">
- <img src="https://user-images.githubusercontent.com/59475849/160796220-c55b19f4-7f08-4095-8686-1a5ea2725eb8.png" width="900" height="600">
-</div>
-
-<br>
-
 ## 🔧 Tech Stack
 &nbsp; ✨ Frontend
 
@@ -66,4 +59,11 @@
  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white">
  <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+ 
+<br>
+ 
+</div>
+## 🔨 Architecture
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/59475849/160796220-c55b19f4-7f08-4095-8686-1a5ea2725eb8.png" width="900" height="600">
 </div>
