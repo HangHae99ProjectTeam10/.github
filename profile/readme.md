@@ -48,17 +48,25 @@
 
 ## 🔧 Tech Stack
 &nbsp; ✨ Frontend
-
+<div align="left">
+ &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-badge&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-badge&logo=react&logoColor=white">
+ <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-badge&logo=redux&logoColor=white">
+ <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-badge&logo=figma&logoColor=white">
+ 
+ <br>
+ <br>
+ 
 &nbsp; ✨ Backend
 <div align="left">
- &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=spring Boot&logoColor=white">
- <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=spring boot&logoColor=white">
- <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
- <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
- <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white">
- <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
- <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+ &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/JAVA-007396?style=flat-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-badge&logo=spring Boot&logoColor=white">
+ <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-badge&logo=spring boot&logoColor=white">
+ <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=flat-badge&logo=amazon aws&logoColor=white">
+ <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=flat-badge&logo=amazon s3&logoColor=white">
+ <img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-badge&logo=redis&logoColor=white">
+ <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat-badge&logo=socket.io&logoColor=white">
+ <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-badge&logo=postman&logoColor=white">
  
  </div>
  
