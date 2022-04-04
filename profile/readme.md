@@ -2,19 +2,9 @@
  
  <img src="https://user-images.githubusercontent.com/59475849/160775149-0be495f9-68a2-4d89-973c-e6cb1a50e5eb.png">
 
-  # 대여 서비스 플랫폼 SharePod!
+  # 대여 서비스 플랫폼 SharePod!  &nbsp;  &nbsp;   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHangHae99ProjectTeam10%2FSharePod-Server&count_bg=%23FFC34A&title_bg=%23622EFA&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://github.com/HangHae99ProjectTeam10/SharePod-Server)
  <br> 
- </div>
- 
- <br>
- 
-<div align="center">
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHangHae99ProjectTeam10%2FSharePod-Server&count_bg=%23FFC34A&title_bg=%23622EFA&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://github.com/HangHae99ProjectTeam10/SharePod-Server)
-
- </div>
- 
- <br>
+ </div> 
  
  ## 📝 Introduce
  ### 물건을 사기에는 부담되고, 잠시 대여하고 싶을 때 사용할 수 있는 물건 대여 서비스 플랫폼입니다.
