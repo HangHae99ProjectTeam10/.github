@@ -2,7 +2,7 @@
  
  <img src="https://user-images.githubusercontent.com/59475849/160775149-0be495f9-68a2-4d89-973c-e6cb1a50e5eb.png">
 
-  # 대여 서비스 플랫폼 SharePod!  &nbsp;  &nbsp;   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHangHae99ProjectTeam10%2FSharePod-Server&count_bg=%23FFC34A&title_bg=%23622EFA&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://github.com/HangHae99ProjectTeam10/SharePod-Server)
+  # 대여 서비스 플랫폼 SharePod!  &nbsp;  &nbsp;   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHangHae99ProjectTeam10%2FSharePod-Server&count_bg=%23FFC34A&title_bg=%23622EFA&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_for=false)](https://github.com/HangHae99ProjectTeam10/SharePod-Server)
  <br> 
  </div> 
  
@@ -25,13 +25,13 @@
 <br>
 
 
-## 🗓 프로젝트 기간
+## 🗓 Project Period
 - 2022년 3월 4일 ~ 2022년 4월 8일
 - 배포 2022년 4월 3일
 
 <br>
 
-## ⚒️ 기능 소개
+## ⚒️ Main Feature
 - 썸네일, 영상 변경
 [![Video Label](.jpg)](https://youtu.be/)
 
@@ -46,8 +46,24 @@
 
 <br>
 
-## 🔨 프로젝트 아키텍쳐
+## 🔨 Architecture
  <div align="center">
  <img src="https://user-images.githubusercontent.com/59475849/160796220-c55b19f4-7f08-4095-8686-1a5ea2725eb8.png" width="900" height="600">
 </div>
 
+<br>
+
+## 🔧 Tech Stack
+&nbsp; ✨ Frontend
+
+&nbsp; ✨ Backend
+<div align="left">
+ &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=spring Boot&logoColor=white">
+ <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=spring boot&logoColor=white">
+ <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+ <img src="https://img.shields.io/badge/AMAZON S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+ <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+ <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+ <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</div>
