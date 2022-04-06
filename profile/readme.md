@@ -58,6 +58,7 @@
  <img src="https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=YARN&logoColor=white">
 
 <img src="https://img.shields.io/badge/Styled_components-db7093?style=for-the-badge&logo=styled-components&logoColor=white">
+ <img src="https://img.shields.io/badge/AMAZON AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
    <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  <br>
