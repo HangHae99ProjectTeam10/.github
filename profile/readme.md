@@ -33,13 +33,13 @@
 
 ## ⚒️ Main Feature
 - 썸네일, 영상 변경
-[![Video Label](.jpg)](https://youtu.be/)
+[![Video Label](https://user-images.githubusercontent.com/97426034/161918349-4d2d463a-1869-4545-a751-608f993b51c4.png)](https://youtu.be/hSuQVkn54SQ)
 
 <br>
 
 ## 📌 Link
 - SharePod 링크 : http://sharepod.co.kr
-- 유튜브 링크 :
+- 유튜브 링크 : https://youtu.be/hSuQVkn54SQ
 - 노션 링크 : https://charm-hexagon-d23.notion.site/SharePod-192a284d1f7c471cbf5cebb3bb167258
 - BackEnd : https://github.com/HangHae99ProjectTeam10/SharePod-Server
 - FrontEnd : https://github.com/HangHae99ProjectTeam10/SharePod-Client
