@@ -80,5 +80,5 @@
 
 ## 🔨 Architecture
  <div align="center">
- <img src="https://user-images.githubusercontent.com/59475849/160796220-c55b19f4-7f08-4095-8686-1a5ea2725eb8.png" width="900" height="600">
+ <img src="https://user-images.githubusercontent.com/97426034/161909746-2562d82e-4dc8-48e4-a9d8-4a0527b94184.png" width="900" height="400">
 </div>
