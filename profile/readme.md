@@ -18,7 +18,6 @@
 |Backend|Backend|Backend|Frontend|Frontend|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 |<img src="https://cdn-icons-png.flaticon.com/512/528/528256.png" width=200>|<img src="https://user-images.githubusercontent.com/84774696/160975814-550bf8b0-532a-4ddb-a88d-0eeca38c585b.png" width=200>|<img src="https://user-images.githubusercontent.com/97426034/161459074-d0741b18-15c4-4085-ae18-e08db3004607.png" width=200>|<img src="https://user-images.githubusercontent.com/90954655/161897347-b5c03565-3a65-4e2e-8517-01064fb16b61.png" width=200>|<img src="https://user-images.githubusercontent.com/70359952/161898773-8ef29a5c-3476-4757-9916-c17b9e0eb06b.png" width=200>|
-
 |[송민혁](https://github.com/thdals83)|[이승수](https://github.com/leeseungsoo0701)|[김도엽](https://github.com/kkamangdol)|[김재만](https://github.com/mannMae)|[이현주](https://github.com/leehyeonj)|
 
 </div>
