@@ -33,7 +33,12 @@
 
 ## ⚒️ Main Feature
 - 썸네일, 영상 변경
+
+<div align="center"> 
+ 
 [![Video Label](https://user-images.githubusercontent.com/97426034/161918349-4d2d463a-1869-4545-a751-608f993b51c4.png)](https://youtu.be/hSuQVkn54SQ)
+ 
+</div>
 
 <br>
 
