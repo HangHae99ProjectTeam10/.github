@@ -55,7 +55,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
  <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
- <img src="https://img.shields.io/badge/YARN-#2C8EBB?style=for-the-badge&logo=YARN&logoColor=white">
+ <img src="https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=YARN&logoColor=white">
 
 <img src="https://img.shields.io/badge/Styled_components-db7093?style=for-the-badge&logo=styled-components&logoColor=white">
    <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
